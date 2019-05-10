@@ -1,0 +1,102 @@
+commit e3bde5e5b7d6535d87471df37bfe7bc764c1c755
+Merge: 52df653 cf8aa7e
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:58:59 2019 +0200
+
+    Fusione Ramo Home
+
+commit cf8aa7e57792bd29a668848acf8c151c04200b92
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:52:02 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/Style.css b/css/Style.css
+index e69de29..dec4c87 100644
+--- a/css/Style.css
++++ b/css/Style.css
+@@ -0,0 +1 @@
++body {background-color:blue;}
+
+commit 52df653c3645911c2ec1c298abbf40f35faa9f0e
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:50:24 2019 +0200
+
+     Inserito colore di sfondo rosso
+
+diff --git a/css/Style.css b/css/Style.css
+index e69de29..374db5f 100644
+--- a/css/Style.css
++++ b/css/Style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 24e4b67915fc80a7473fcd2d3a35cb14013debd0
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:47:31 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/download.jpg b/img/download.jpg
+new file mode 100644
+index 0000000..99a6595
+Binary files /dev/null and b/img/download.jpg differ
+
+commit 826ac7b32108ffa2f40e439f8fa8320649df7c2c
+Merge: 644f28d 6ad8765
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:39:39 2019 +0200
+
+    Fusione ramo Conatti
+
+commit 6ad8765781388cc1e16a5be4dea6f7c6bf16905d
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:38:45 2019 +0200
+
+     Inserito il file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit d3b7a77d532642ba21a560cefc91bbf74ee71111
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:36:53 2019 +0200
+
+    Creata la pagina contatti
+
+diff --git a/Compito/contatti.html b/Compito/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 5c96ef6a2d1202fd02211710cb065b306db74181
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:31:04 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/download.jpg b/img/download.jpg
+new file mode 100644
+index 0000000..691b15c
+Binary files /dev/null and b/img/download.jpg differ
+
+commit 644f28d5cae862bccee4e7c759d519cb55a40047
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:29:00 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/compito/home.html b/compito/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 54033a765b77f0f80b614769238c188073be19de
+Author: Bruno Martelli <bruno.martelli2001@gmail.com>
+Date:   Fri May 10 11:25:11 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/Style.css b/css/Style.css
+new file mode 100644
+index 0000000..e69de29
